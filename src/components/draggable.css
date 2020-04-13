@@ -1,0 +1,10 @@
+.rectangle {
+    height:100px;
+    background:grey;
+
+    margin: 1%;
+}
+
+.blue {
+    background: blue;
+}
